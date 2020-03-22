@@ -1,0 +1,249 @@
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\ApplicationInsights.config
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Test AmarPC.dll.config
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Test AmarPC.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Test AmarPC.pdb
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\csc.exe
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\csc.exe.config
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\csc.rsp
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\csi.exe
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\csi.exe.config
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\csi.rsp
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.Managed.Core.targets
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.AppContext.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Collections.Immutable.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Console.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.Compression.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.FileSystem.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.Pipes.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Reflection.Metadata.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.AccessControl.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Claims.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Principal.Windows.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.ValueTuple.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.XmlDocument.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.XPath.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\vbc.exe
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\vbc.exe.config
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\vbc.rsp
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\VBCSCompiler.exe
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\roslyn\VBCSCompiler.exe.config
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Antlr3.Runtime.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\EntityFramework.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\EntityFramework.SqlServer.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.Agent.Intercept.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.DependencyCollector.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.Web.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.WindowsServer.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.ApplicationInsights.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Core.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Cookies.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Facebook.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Google.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.OAuth.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Twitter.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Web.Infrastructure.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Newtonsoft.Json.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Owin.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Diagnostics.DiagnosticSource.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Helpers.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Mvc.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Optimization.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Razor.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Deployment.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Razor.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\WebGrease.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Helpers.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Mvc.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Optimization.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.Razor.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Deployment.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Razor.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Newtonsoft.Json.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Antlr3.Runtime.pdb
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\EntityFramework.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\EntityFramework.SqlServer.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Core.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Facebook.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Cookies.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Google.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Twitter.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.OAuth.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\System.Diagnostics.DiagnosticSource.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.DependencyCollector.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.WindowsServer.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.AI.Web.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csprojAssemblyReference.cache
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csproj.CoreCompileInputs.cache
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csproj.CopyComplete
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.dll
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.pdb
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test_AmarPC.Migrations.InitialCreate.resources
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csproj.GenerateResource.cache
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test_AmarPC.Migrations.first.resources
+J:\C#\ASP.Net\Complete Project\AmarPCC\Test AmarPC\Test AmarPC\obj\Debug\Test_AmarPC.Migrations.updateInRegisterViewModel.resources
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\ApplicationInsights.config
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Test AmarPC.dll.config
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Test AmarPC.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Test AmarPC.pdb
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\csc.exe
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\csc.exe.config
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\csc.rsp
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\csi.exe
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\csi.exe.config
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\csi.rsp
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.Managed.Core.targets
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.AppContext.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Collections.Immutable.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Console.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.Compression.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.FileSystem.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.IO.Pipes.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Reflection.Metadata.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.AccessControl.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Claims.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Security.Principal.Windows.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.ValueTuple.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.XmlDocument.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.XPath.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\vbc.exe
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\vbc.exe.config
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\vbc.rsp
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\VBCSCompiler.exe
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\roslyn\VBCSCompiler.exe.config
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Antlr3.Runtime.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\EntityFramework.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\EntityFramework.SqlServer.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.Agent.Intercept.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.DependencyCollector.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.Web.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.WindowsServer.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.ApplicationInsights.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Core.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Cookies.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Facebook.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Google.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.OAuth.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Twitter.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Web.Infrastructure.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Newtonsoft.Json.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Owin.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Diagnostics.DiagnosticSource.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Helpers.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Mvc.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Optimization.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Razor.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Deployment.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Razor.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\WebGrease.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Helpers.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Mvc.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Optimization.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.Razor.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Deployment.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Web.WebPages.Razor.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Newtonsoft.Json.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Antlr3.Runtime.pdb
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\EntityFramework.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\EntityFramework.SqlServer.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Core.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Facebook.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Cookies.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Google.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.Twitter.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.Owin.Security.OAuth.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\System.Diagnostics.DiagnosticSource.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.DependencyCollector.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.WindowsServer.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.AI.Web.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csprojAssemblyReference.cache
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test_AmarPC.Migrations.InitialCreate.resources
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test_AmarPC.Migrations.first.resources
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test_AmarPC.Migrations.updateInRegisterViewModel.resources
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csproj.GenerateResource.cache
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csproj.CoreCompileInputs.cache
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.csproj.CopyComplete
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.dll
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test AmarPC.pdb
+I:\C#\ASP.Net\Complete Project\AmarPCC - Copy\Test AmarPC\Test AmarPC\obj\Debug\Test_AmarPC.Migrations.Valid.resources

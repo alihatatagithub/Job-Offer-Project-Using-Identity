@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Test_AmarPC.Models.Job>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+
+@foreach (var item in Model)
+{
+    <div class="panel panel-default">
+        <h1 class="panel panel-heading">Search Result</h1>
+
+
+        <div class="row">
+            @foreach (var subitem in Model)
+            {
+                <div class="col-md-3 thumbnail" style="margin-left:20px; margin-bottom:30px; min-height:480px;">
+                    <img src="~/Uploads/@subitem.JobImage" />
+                    <h3>@Html.DisplayFor(modelItem => subitem.JobTitle)</h3>
+                    @Html.ActionLink("Detials", "Detials", new { JobId = subitem.Id }, new { @class = "btn btn-primary" })
+                </div>
+            }
+        </div>
+    </div>
+}

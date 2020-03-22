@@ -1,0 +1,56 @@
+﻿@using Microsoft.AspNet.Identity
+@model Test_AmarPC.Models.Job
+
+@{
+    ViewBag.Title = "Detials";
+}
+
+<h2>Detials</h2>
+
+<div>
+    <h4>Job</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobContent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobContent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.JobImage)
+        </dt>
+
+        <dd>
+            <img src="~/Uploads/@Html.DisplayFor(model=>model.JobImage)"
+                 class="thumbnail"
+                 style="width:128px; height:128px;" />
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @if (User.IsInRole("Job Seeker"))
+    {
+        @Html.ActionLink("Apply For Job", "Apply", new { id = Model.Id }, new { @class = "btn btn-success" }) 
+}
+    @Html.ActionLink("Back to List", "Index", new { @class = "btn btn-default" })
+</p>
